@@ -6,3 +6,9 @@ for index = A
     end
 end
 
+x = zeros([10, 0]);
+for i = 1:10
+    x(i) = i ^ 2;
+end
+
+disp(x)
