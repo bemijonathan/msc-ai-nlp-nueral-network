@@ -170,7 +170,7 @@ The **Perceptron** is one of the earliest and simplest types of artificial neura
    \end{cases}
    $
 
-5. **Net Input Calculation**:
+5. **Net Input Calculation**: (Hard Limit)
 
    $
    z = \mathbf{w} \cdot \mathbf{x} + b = w_1 x_1 + w_2 x_2 + \ldots + w_n x_n + b
