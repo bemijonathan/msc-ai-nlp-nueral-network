@@ -4,4 +4,11 @@ This contains all the lab works from the demontfort university for Nueral networ
 
 ### Table of contents
 
- 1. learning MatLab
+- Neural Networks
+    - labs
+    - class notes
+    - research papers 
+- Natural Language Processing
+    - labs
+    - class notes
+    - research papers 
