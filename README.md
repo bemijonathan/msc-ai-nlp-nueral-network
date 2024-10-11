@@ -1,11 +1,9 @@
 ## NEURAL SYSTEMS & NATURAL LANGUAGE PROCESSING
 
 #### De Montfort University Leicester (DMU)
-
-While completing my Msc program at DMU I decided to share my entire learning note for people who wish to gain more theoretical knowledge of deep learning and NLP
 ---
-
-This contains all the lecture notes and  lab works from the De Montfort University for neural networks and NLP classes. 
+While completing my Msc program at DMU I decided to share my entire learning note for people who wish to gain more theoretical knowledge of deep learning and NLP.
+This repository contains all the lecture notes and lab works for neural networks and NLP classes. 
 We used `MATLAB` for neural systems and `Python` for NLP. 
 
 ### Objectives (Module Assessments)
