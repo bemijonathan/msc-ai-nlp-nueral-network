@@ -95,7 +95,7 @@ This is a learning algorithm that helps train neural network making them better 
 
 The **gradient descent formula** is used to update the parameters of a function to minimize the loss (or cost) function. The formula involves taking a step in the direction of the negative gradient of the loss function.
 
-Here is the general **gradient descent update rule** for parameter \( \mathbf{w} \):
+Here is the general **gradient descent update rule** for parameter \($\mathbf{w} $\):
 
 $$[
 \mathbf{w}^{(t+1)} = \mathbf{w}^{(t)} - \eta \nabla f(\mathbf{w}^{(t)})
@@ -103,7 +103,7 @@ $$[
 
 ### Explanation of Terms:
 - $\mathbf{w}^{(t)}$: The vector of parameters (weights) at the current iteration $t$.
-- $mathbf{w}^{(t+1)}$: The updated vector of parameters after the $t+1$-th iteration.
+- $\mathbf{w}^{(t+1)}$: The updated vector of parameters after the $t+1$-th iteration.
 - $eta $: The **learning rate**, a positive scalar that determines the step size in the direction of the negative gradient.
 - $\nabla f(\mathbf{w}^{(t)})$: The **gradient** of the loss (cost) function $ f(\mathbf{w})$ with respect to the parameters $\mathbf{w} $ at the current iteration $ t $. This represents the partial derivatives of the function with respect to each parameter.
 

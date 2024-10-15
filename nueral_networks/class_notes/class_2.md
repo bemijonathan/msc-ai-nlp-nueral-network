@@ -248,9 +248,10 @@ For each epoch from 1 to E do:
 
         // Update weights and bias if prediction is incorrect
         if output != target then
+        error = (target - output)
             for i from 1 to n do:
-                w[i] = w[i] + η * (target - output) * x[i]
-            b = b + η * (target - output)
+                w[i] = w[i] + η * error * x[i]
+            b = b + η * error
 
 Return the final weights and bias
 ```
